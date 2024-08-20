@@ -23,3 +23,4 @@ AUTH_USER_MODEL = 'accounts.Account'
 py -m venv env
 env\Scripts\activate
 
+https://myaccount.google.com/apppasswords
